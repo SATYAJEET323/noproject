@@ -1,17 +1,17 @@
 export const tasks = [
-    "Task 1: kiss Each Other",
-    "Task 2: hug Each Other",
-    "Task 3: Kiss the person without touching the hands",
-    "Task 4: remove Clothes by mouth",
-    "Task 5: Lick Partner fav part",
-    "Task 6: make your partner moan",
-    "Task 7: suck your partners fav part",
-    "Task 8: give love bite on your partner fav part",
-    "Task 9: sit on your partner lap and kiss",
-    "Task 10: make nipple hard for 1 minute",
-    "Task 11: make your partner hard",
-    "Task 12: slowly remove your partner clothes",
-    "Task 13: slowly slowy kiss your partner",
+    "Task 1: 
+    "Task 2: 
+    "Task 3:
+    "Task 4: 
+    "Task 5: 
+    "Task 6:
+    "Task 7: 
+    "Task 8: 
+    "Task 9: 
+    "Task 10: 
+    "Task 11: 
+    "Task 12: 
+    "Task 13: 
     "Task 14: neck kiss for 1 minute",
     "Task 15: sit on penny and kiss",
     "Task 16: do dance without clothes",
