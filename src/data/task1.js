@@ -22,21 +22,20 @@ export const tasks = [
     "Task 21: 
     "Task 22: 
     "Task 23: 
-    "Task 24: give love bite on back",
+    "Task 24: 
     "Task 25: 
-    "Task 26: remove panty with mouth",
-    "Task 27: lick the breast",
-    "Task 28: lick the breast with tongue",
-    "Task 29: cuddle while naked",
-    "Task 30: boobs pressing for 2 minutes",
-    "Task 31: fed a food by mouth to mouth",
-    "Task 32: taste the food by mouth to mouth",
-    "Task 33: move nipple on body",
-    "Task 34: sleep naked on each other",
-    "Task 35: give a massage",
-    "Task 36: take a nap while holding fav part",
-    "Task 37: lean the partner on wall and do sex",
-    "Task 38: touch the pennis to anus while standing",
-    "Task 39: make your partner wet",
-    "Task 40: do a sexy photo shoot",
+    "Task 26: 
+    "Task 27:
+    "Task 28: 
+    "Task 29: 
+    "Task 30: 
+    "Task 31: 
+    "Task 32: 
+    "Task 33: 
+    "Task 34:
+    "Task 36: 
+    "Task 37:
+    "Task 38: 
+    "Task 39: 
+    "Task 40: 
 ];
