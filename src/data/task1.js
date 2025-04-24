@@ -12,18 +12,18 @@ export const tasks = [
     "Task 11: 
     "Task 12: 
     "Task 13: 
-    "Task 14: neck kiss for 1 minute",
-    "Task 15: sit on penny and kiss",
-    "Task 16: do dance without clothes",
-    "Task 17: do a sexy dance",
-    "Task 18: Do a sexy pose",
-    "Task 19: suck the anus for 1 minute",
-    "Task 20: kiss the anus",
-    "Task 21: fingering for 2 minutes",
-    "Task 22: lick the anus",
-    "Task 23: give tight hug",
+    "Task 14:
+    "Task 15:
+    "Task 16: 
+    "Task 17: 
+    "Task 18:
+    "Task 19: 
+    "Task 20:
+    "Task 21: 
+    "Task 22: 
+    "Task 23: 
     "Task 24: give love bite on back",
-    "Task 25: remove bra with mouth",
+    "Task 25: 
     "Task 26: remove panty with mouth",
     "Task 27: lick the breast",
     "Task 28: lick the breast with tongue",
